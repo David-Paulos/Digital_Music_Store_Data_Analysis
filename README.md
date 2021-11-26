@@ -1,5 +1,5 @@
 <div align="center">
- <img height="256" width="256" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/256/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" />
+ <img height="256" width="256" src="https://img.icons8.com/color/256/000000/spotify--v1.png" />
 <div>
 
 # Digital Music Store - Data Analysis
